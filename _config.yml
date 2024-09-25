@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "moteez的小小角落"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+# name                     : &name "Your Name"
+# description              : &description "personal description"
 url                      : https://motingzhi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/fengyu.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "motingzhi/fengyu.github.io"
@@ -20,7 +20,7 @@ repository               : "motingzhi/fengyu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Motingzhi"
   pronouns         : # example: "she/her"  
   bio              : "我向往自由自在"
