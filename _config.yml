@@ -20,7 +20,7 @@ repository               : "motingzhi/fengyu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   name             : "Motingzhi"
   pronouns         : # example: "she/her"  
   bio              : "我向往自由自在"
